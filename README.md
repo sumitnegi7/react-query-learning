@@ -2,6 +2,7 @@
 # Project Title
 
 Basic react query project 
+https://tanstack.com/query/v4/docs/overview
 
 
 
